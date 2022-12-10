@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857849072788",
+    "project_id": "fishrequirementsystem",
+    "storage_bucket": "fishrequirementsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857849072788:android:4cc9052fcde08d37d73881",
+        "android_client_info": {
+          "package_name": "com.example.fishrequirementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857849072788-d01chac366ff03doiq721ldhi45rgang.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWfoLI3xovhJFH5gU00RNQSN3L1hYqfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857849072788-d01chac366ff03doiq721ldhi45rgang.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
